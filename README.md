@@ -1,6 +1,3 @@
-Here's a clean and detailed `README.md` file for your project:
-
----
 
 # 🧾 PDF Reader with TTS (Text-to-Speech)
 
@@ -121,7 +118,3 @@ PDFReader/
 * Ensure both backend and frontend are running for the app to work properly.
 * Backend provides text-to-speech service using Kokoro TTS.
 * Frontend is optimized for reading and interaction with the backend TTS engine.
-
----
-
-Let me know if you'd like this saved as a `README.md` file or want additional badges/documentation!
