@@ -115,7 +115,7 @@ export default function HomePage() {
     console.log(`🚀 Worker is fetching paragraph ${indexToFetch} with voice ${selectedVoice}...`);
 
     // MODIFIED: Added 'voice' to the request body
-    fetch('http://localhost:5001/api/speak', {
+    fetch('http://100.90.222.30:5001/api/speak', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
