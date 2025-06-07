@@ -71,14 +71,6 @@ PDFReader/
    GOOGLE_API_KEY="<your_google_api_key>"
    ```
 
-   #### 🔑 How to Get Your Google API Key:
-
-   1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
-   2. Create a new project (or select an existing one).
-   3. Enable the **Text-to-Speech API** from the [API Library](https://console.cloud.google.com/apis/library/texttospeech.googleapis.com).
-   4. Go to **APIs & Services > Credentials** and click **Create Credentials > API key**.
-   5. Copy your API key and replace `<your_google_api_key>` in the `.env` file.
-
 5. **Install PyTorch with CUDA**
    Visit [PyTorch Installation Guide](https://pytorch.org/get-started/locally/)
 
